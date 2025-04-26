@@ -10,10 +10,12 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 043743](https://github.com/user-attachments/assets/3255bda7-6003-4b67-9c35-2c4cddff8741)
 
 ## OUTPUT
 
 
+![Screenshot 2025-04-26 043758](https://github.com/user-attachments/assets/cc1fbce4-6a40-4086-a9a7-9dab22aa8b79)
 
 
 
@@ -47,10 +49,12 @@ Write a C Program to check whether the two numbers are equal or not using simple
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 043933](https://github.com/user-attachments/assets/1106a189-8d6b-4020-8cf5-31cd2f4bc33a)
 
 
 ## OUTPUT
-           
+![Screenshot 2025-04-26 043941](https://github.com/user-attachments/assets/899e8857-7e3c-4211-951a-9b91f9f8d405)
+     
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -70,8 +74,10 @@ Write a C Program to convert the given string into lowercase.
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 044231](https://github.com/user-attachments/assets/04f5ae44-722e-4503-86c5-83d2fb02709e)
 
 ## OUTPUT
+![Screenshot 2025-04-26 044235](https://github.com/user-attachments/assets/2a00dc69-7d64-48ba-b72c-40a4181590a8)
 
 
 
@@ -95,9 +101,11 @@ Write a C Program to count the total number of words in a given string using do 
 6.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 044444](https://github.com/user-attachments/assets/85a97f9a-389e-4182-98b4-26ec3ee9809e)
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/0a85f01d-9223-48a4-867b-45846a3c3931)
 
 
 
@@ -129,10 +137,12 @@ Step 7: After the loop, check the value of flag:
 Step 8: End the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 044757](https://github.com/user-attachments/assets/a82c1f7e-4f98-467b-8e04-806ad6b088c0)
 
 
 ## OUTPUT
- 
+ ![Screenshot 2025-04-26 044803](https://github.com/user-attachments/assets/829c9f81-6892-411b-862f-a36fa9b24b06)
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
